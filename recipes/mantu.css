@@ -1,0 +1,16 @@
+h1{
+    color:rgb(33, 126, 95);
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.first{
+    text-align: center;
+    background-color: rgb(33, 126, 95);
+    color: #dbdbdb;
+}
+
+h2{
+    color: ivory;
+    background-color: rgb(33, 126, 95);
+}
